@@ -1,0 +1,40 @@
+.rodape {    
+    color: #000000;
+    background-color: #22D4FD;   
+}
+
+.rodape {   
+    padding: 24px;
+    color: #000000;
+    background-color: #22D4FD;   
+}
+body {
+     height: 100vh;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+.cabecalho__menu {
+    justify-content: start;
+    align-items: center;
+    display: flex;
+    margin: 20px 10px;
+    padding: 5px 55px;
+}
+
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 10px;   
+    font-size: 24px;
+    color: #22D4FD;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.cabecalho__menu__link:hover {
+    color: #007bff;
+    cursor: pointer;
+}
+
+
+

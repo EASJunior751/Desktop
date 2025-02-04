@@ -1,0 +1,10 @@
+.apresentacao__links{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+.apresentacao__links:hover {
+    background-color: #090333;
+     border: 2px solid #12085e; */
+    cursor: pointer;
+}
